@@ -10,5 +10,12 @@
 
 ### (For tailwind) : [DOCS](https://tailwindcss.com/docs/guides/create-react-app)
 
+### (For running this project):
+
+#### 01: git clone https://github.com/vaxad/wd-practicals-sample.git
+#### 02: cd wd-practicals-sample
+#### 03: npm i
+#### 04: npm start
+
 
 
